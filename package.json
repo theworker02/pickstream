@@ -24,6 +24,8 @@
     "stream",
     "hash",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
